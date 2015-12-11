@@ -15,6 +15,7 @@ PyVCF was downloaded from https://pypi.python.org/pypi/PyVCF/0.6.0 and added to 
 
 We used plink 1.9 (can be downloaded at https://www.cog-genomics.org/plink2) to convert PED and MAP files into a VCF file with the terminal command `command: ./plink --file tempdata/NB-core_v4 --recode vcf`. This was done to make the data in a format compatible with the PyVCF package.
 
+#### Large Data Saved in Dropbox
 A lot of our data was too large (200 MB to 12 GB) to include in our Github repository, so we saved much of it in this Dropbox link: https://www.dropbox.com/sh/7dglv10l515k335/AADo7kA8jVmxspsYud3Ft1y_a?dl=0
 
 #### Project Website
