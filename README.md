@@ -19,7 +19,7 @@ A lot of our data was too large (200 MB to 12 GB) to include in our Github repos
 Our project website can be accessed at this URL:  http://dylanpeterson.github.io/cs109-final-project
 
 #### Project Screencast Video
-Our project screencast video can be accessed at this URL:
+Our project screencast video can be accessed at this URL: https://www.youtube.com/watch?v=NlZ2j37BFlc
 
 #### Old Project Repository
 Our project began in an earlier repo, accessible at this URL: https://github.com/o0neil/Believe_The_Hype
