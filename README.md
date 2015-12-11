@@ -16,7 +16,7 @@ We used plink 1.9 (can be downloaded at https://www.cog-genomics.org/plink2) to 
 A lot of our data was too large (200 MB to 12 GB) to include in our Github repository, so we saved much of it in this Dropbox link: https://www.dropbox.com/sh/7dglv10l515k335/AADo7kA8jVmxspsYud3Ft1y_a?dl=0
 
 #### Project Website
-Our project website can be accessed at this URL: https://dylanpeterson.github.io/cs109-final-project/
+Our project website can be accessed at this URL:  http://dylanpeterson.github.io/cs109-final-project
 
 #### Project Screencast Video
 Our project screencast video can be accessed at this URL:
